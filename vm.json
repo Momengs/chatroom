@@ -1,0 +1,15 @@
+{
+  "name": "vm",
+  "description": "This box contains ubuntu 16.04 LTS 64bit.",
+  "versions": [
+    {
+      "version": "1.0",
+      "providers":[
+        {
+          "name": "virtualbox",
+          "url": "vm.box"
+        }
+      ]
+    }
+  ]
+}
